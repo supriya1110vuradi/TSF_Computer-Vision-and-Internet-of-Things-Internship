@@ -1,0 +1,10 @@
+‘lowercase:
+abedefghijkimn
+
+opaqarstuvw xyz
+the quick brown fxsame A,
+over the lazy dog
+
+the quick brown fox jumps »
+over the lozy dog
+

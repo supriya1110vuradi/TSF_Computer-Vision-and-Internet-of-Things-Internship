@@ -1,0 +1,15 @@
+difference in stroke orientation and stroke length between
+handwriting and printed text. Compared with text, noise
+blocks often have simple stroke complexity. Therefore,
+
+CTOSs
+
+ 
+
+ing count histogram features are exploited to model
+such differences. We further take regions of machine printed
+text, handwriting, and noise blocks as different textures, Two
+sets of bilevel texture features (bilevel co-occurrence features
+and bilevel 2 7 2 gram features) are used for classification. In
+the following sections, we present these features in detail.
+
